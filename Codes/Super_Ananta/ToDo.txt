@@ -1,0 +1,29 @@
+level 1:
+2 types of obstacles
+(1) spaceship
+(2) cars
+level 2: 
+as he comes closer to the dungeon, shakib comes to the rescue... bla bla bla
+one new type of obstacle: shakib khan 
+press a sequence of right and left arrow to burn shakib into flames 
+but as shakib is a hybrid of pheonix, he can reincernate.. 
+level 3: 
+he has reached the dungeon, and now he has to fight the godfather Dipjol to save Barsha.
+in the fight, the player has to type a random word that is shown on the screen.
+if he types all the letters correctly, he hits Dipjol.
+Otherwise Dipjol hits him. 
+as ananta is already tired, he can endure only 3 hits, whereas Dipjol can endure 13 hits. 
+
+Level 4-Extra:
+this is an additional (and optional) level. this is similar to the level 3. 
+in this level, Dipjol can endure 100 hits.
+this level can be a good option to practice your typing speed and accuracy.
+
+# Welcome Screen - 50%
+# Leaderboard - 50%
+# Instructions 
+# End Screen 
+# End message for each obstacles 
+# game ending screen
+# taking input of users name
+# mouse input

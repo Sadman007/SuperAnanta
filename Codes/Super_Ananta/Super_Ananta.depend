@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1449064806 source:f:\super_ananta\main.cpp
+	"jinishpotro.h"
+
+1449066944 f:\super_ananta\jinishpotro.h
+	<cstdio>
+	<time.h>
+	<graphics.h>
+	<conio.h>
+	<cstring>
+	<ctype.h>
+	<leaderboard.h>
+	"input.h"
+	"safety.h"
+	"hero.h"
+	"obstacle.h "
+	"fight.h"
+	"formality.h"
+
+1449031495 f:\super_ananta\hero.h
+
+1449066908 f:\super_ananta\formality.h
+
+1449045333 f:\super_ananta\input.h
+
+1448627612 f:\super_ananta\obstacle.h
+
+1449036055 f:\super_ananta\safety.h
+
+1449046431 f:\super_ananta\fight.h
+
